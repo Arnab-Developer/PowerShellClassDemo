@@ -2,7 +2,7 @@
 
 This is a demo to show the usage of class in PowerShell.
 
-## How to run this
+## How to run
 
 - Download the store the PowerShell script in your local machine.
 - Open a PowerShell Terminal.
